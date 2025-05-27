@@ -76,7 +76,8 @@ $taches = $stmt->fetchAll(PDO::FETCH_ASSOC);
         }
     </script>
 </head>
-<body class="bg-gray-100 min-h-screen">
+<body class="min-h-screen bg-gradient-to-b from-white to-purple-500">
+
     <!-- PARTIE FRONT-END - Navbar -->
     <nav class="bg-blue-600 text-white shadow-lg">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
