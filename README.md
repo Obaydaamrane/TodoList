@@ -3,6 +3,7 @@
 ## Description
 Application web de gestion de tâches développée dans le cadre du module M202 - Approche Agile.
 Version utilisant Tailwind CSS pour le styling.
+![alt text](image.png)
 
 ## Fonctionnalités
 - ✅ Ajouter une nouvelle tâche
